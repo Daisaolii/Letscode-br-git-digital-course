@@ -4,3 +4,4 @@
 
 * uso do comando git restore
 * comando git pull
+* testando o git de novo
