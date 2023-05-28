@@ -2,3 +2,5 @@
 
 # Fazendo alterações no Git 
 
+* comando git push 
+
