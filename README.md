@@ -1,8 +1,3 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git
 
-## Salvando modificações no Git
-
-* uso do comando git restore
-* comando git pull
-* testando o git de novo
-git feath? 
+# Salvando modificações no Git 
